@@ -36,7 +36,7 @@ El flujo está construido sobre **n8n** integrando **LangChain** para el manejo 
 4. Configura tus propias credenciales para OpenAI, Qdrant, Redis y Postgres en los nodos correspondientes.
 5. Ajusta las URLs del webhook y del CRM según tu entorno local o de pruebas.
 
-## 💡 Casos de Uso Demostrados
+## Casos de Uso Demostrados
 * Prompt Engineering avanzado y uso de LangChain Output Parsers.
 * Inyección dinámica de herramientas (Function Calling) en modelos LLM.
 * Manejo de estado avanzado y lógica de enrutamiento condicional.
